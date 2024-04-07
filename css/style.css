@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin: 20px;
+}
+#dis{
+    font-size: 10px;
+}
+.ClearFix{
+    clear: both;
+}
+.ipho{
+
+    margin: 2px;
+    text-align: center;
+    width: 150px;
+    height: 300px;
+    border: 2px solid;
+    float: left;
+    
+ 
+    
+}
+.ipho2{
+
+    margin: 2px;
+    text-align: center;
+    width: 150px;
+    height: 300px;
+    border: 2px solid;
+    float: left;
+    
+ 
+    
+}
+
+p{
+    font-size: 15px;
+}
+img{
+   
+     height: 150px;
+    width: 100px;
+    
+}
+button{
+    text-align: right;
+    float:left;
+    margin: 1px;
+    
+}
+svg{
+    height: 40px;
+    width: 35px;
+}

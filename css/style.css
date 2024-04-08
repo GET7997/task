@@ -9,7 +9,7 @@ h1{
 #dis{
     font-size: 10px;
 }
-.ClearFix{
+.clearfix{
     clear: both;
 }
 .ipho{
@@ -24,19 +24,6 @@ h1{
  
     
 }
-.ipho2{
-
-    margin: 2px;
-    text-align: center;
-    width: 150px;
-    height: 300px;
-    border: 2px solid;
-    float: left;
-    
- 
-    
-}
-
 p{
     font-size: 15px;
 }

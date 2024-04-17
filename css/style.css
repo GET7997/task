@@ -3,26 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 }
-h1{
-    margin: 20px;
-}
-#dis{
-    font-size: 10px;
-}
-.clearfix{
-    clear: both;
-}
 .ipho{
 
     margin: 2px;
     text-align: center;
     width: 150px;
     height: 300px;
-    border: 2px solid;
+    border: 1px solid;
     float: left;
     
  
     
+}
+.clearfix{
+    clear: both;
 }
 p{
     font-size: 15px;
@@ -42,4 +36,11 @@ button{
 svg{
     height: 40px;
     width: 35px;
+}
+h1{
+    margin: 20px;
+}
+#discount{
+    font-size: 13px;
+    
 }
